@@ -1,0 +1,26 @@
+--- Starting Stop-and-Wait ARQ Simulation ---
+
+Sending Frame 0
+ACK 0 received.
+
+Sending Frame 1
+Frame 1 lost on its way to the receiver.
+Timeout for Frame 1, retransmitting...
+
+Sending Frame 1
+ACK 1 received.
+
+Sending Frame 2
+ACK for Frame 2 lost on its way back.
+Timeout for Frame 2, retransmitting...
+
+Sending Frame 2
+ACK 2 received.
+
+Sending Frame 3
+ACK 3 received.
+
+Sending Frame 4
+ACK 4 received.
+
+--- Simulation Complete ---
